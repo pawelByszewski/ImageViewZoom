@@ -38,7 +38,8 @@
       <groupId>it.sephiroth.android.library.easing</groupId>
       <artifactId>library</artifactId>
       <version>+</version>
-      <scope>compile</scope>
+      <type>aar</type>
+      <scope>compile</scope>	
     </dependency>
   </dependencies>
 </project>
